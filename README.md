@@ -1,5 +1,7 @@
 # Iterator Helpers
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 ### Proposal
 
 A proposal for several interfaces that will help with general usage and
